@@ -4,3 +4,4 @@ git has a mutable index called stage
 creating a new branch is quick AND simple
 new branch dev
 test bug branch
+I change sth. on branch dev
